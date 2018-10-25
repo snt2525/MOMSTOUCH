@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "D:\\LocationTest\\app\\build\\intermediates\\res\\merged\\debug\\layout\\main.xml",
+        "source": "D:\\LocationTest\\app\\src\\main\\res\\layout\\main.xml"
+    },
+    {
+        "merged": "D:\\LocationTest\\app\\build\\intermediates\\res\\merged\\debug\\layout\\map_alram.xml",
+        "source": "D:\\LocationTest\\app\\src\\main\\res\\layout\\map_alram.xml"
+    },
+    {
+        "merged": "D:\\LocationTest\\app\\build\\intermediates\\res\\merged\\debug\\layout\\intro_activity.xml",
+        "source": "D:\\LocationTest\\app\\src\\main\\res\\layout\\intro_activity.xml"
+    },
+    {
+        "merged": "D:\\LocationTest\\app\\build\\intermediates\\res\\merged\\debug\\layout\\alram.xml",
+        "source": "D:\\LocationTest\\app\\src\\main\\res\\layout\\alram.xml"
+    }
+]

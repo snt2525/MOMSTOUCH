@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    >
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:background="#ffffff"
+        android:layout_weight="2">
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:orientation="vertical"
+            android:id="@+id/weather">
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/tx"
+                android:layout_margin="10dp"
+                android:text="현재날씨"
+                android:textSize="18dp"
+                android:textColor="#000000"/>
+            <ImageView
+                android:layout_marginLeft="10dp"
+                android:layout_width="180dp"
+                android:layout_height="180dp"
+                android:id="@+id/weatherIcon"
+                android:src="@drawable/clear"/>
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/temper"
+                android:textSize="20dp"
+                android:text="19º"
+                android:layout_marginLeft="20dp" />
+            <Button
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/setLocation"
+                android:onClick="locationClick"
+                android:text="내 위치"
+                android:layout_gravity="right"/>
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="195dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:orientation="vertical"
+            android:layout_gravity="right"
+            android:id="@+id/dirt">
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_margin="10dp"
+                android:textSize="20dp"
+                android:text="미세먼지"
+                android:layout_marginLeft="20dp" />
+            <ImageView
+                android:layout_width="150dp"
+                android:layout_height="150dp"
+                android:id="@+id/airIcon"
+                android:src="@drawable/good"/>
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/air"
+                android:textSize="20dp"
+                android:text="좋음"
+                android:layout_marginTop="28dp"
+                android:layout_marginLeft="5dp" />
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="10dp"
+                android:id="@+id/airSuggestion"
+                android:textSize="15dp"
+                android:text="장시간 실외활동 가급적 자제!"
+                android:layout_marginLeft="5dp"
+                android:textColor="#ff6000"/>
+        </LinearLayout>
+    </LinearLayout>
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:orientation="vertical">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:layout_weight="1"
+            android:padding="30dp">
+            <Switch
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:text="날씨"
+                android:id="@+id/sw1"
+                android:onClick="switchs"/>
+            <Switch
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:onClick="switchs"
+                android:layout_weight="1"
+                android:text="제동경보"
+                android:id="@+id/sw2"/>
+        </LinearLayout>
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:layout_weight="1"
+            android:padding="30dp">
+            <Switch
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:onClick="switchs"
+                android:layout_weight="1"
+                android:text="냄새알림"
+                android:id="@+id/sw3" />
+            <Switch
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:onClick="switchs"
+                android:layout_weight="1"
+                android:text="도난방지"
+                android:id="@+id/sw4"/>
+        </LinearLayout>
+    </LinearLayout>
+</LinearLayout>
+<!-- From: file:/C:/Users/kim/Desktop/sources/chap17/LocationTest/app/src/main/res/layout/main.xml -->

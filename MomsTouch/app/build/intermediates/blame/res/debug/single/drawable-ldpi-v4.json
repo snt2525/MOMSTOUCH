@@ -1,0 +1,54 @@
+[
+    {
+        "merged": "D:\\LocationTest\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\mostlyclody.png",
+        "source": "D:\\LocationTest\\app\\src\\main\\res\\drawable-ldpi\\mostlyclody.png"
+    },
+    {
+        "merged": "D:\\LocationTest\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\verybad.png",
+        "source": "D:\\LocationTest\\app\\src\\main\\res\\drawable-ldpi\\verybad.png"
+    },
+    {
+        "merged": "D:\\LocationTest\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\clear.png",
+        "source": "D:\\LocationTest\\app\\src\\main\\res\\drawable-ldpi\\clear.png"
+    },
+    {
+        "merged": "D:\\LocationTest\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\common_ic_googleplayservices.png",
+        "source": "D:\\LocationTest\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.4.0\\res\\drawable-ldpi-v4\\common_ic_googleplayservices.png"
+    },
+    {
+        "merged": "D:\\LocationTest\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\bad.png",
+        "source": "D:\\LocationTest\\app\\src\\main\\res\\drawable-ldpi\\bad.png"
+    },
+    {
+        "merged": "D:\\LocationTest\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\nomal.png",
+        "source": "D:\\LocationTest\\app\\src\\main\\res\\drawable-ldpi\\nomal.png"
+    },
+    {
+        "merged": "D:\\LocationTest\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\notbad.png",
+        "source": "D:\\LocationTest\\app\\src\\main\\res\\drawable-ldpi\\notbad.png"
+    },
+    {
+        "merged": "D:\\LocationTest\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\good.png",
+        "source": "D:\\LocationTest\\app\\src\\main\\res\\drawable-ldpi\\good.png"
+    },
+    {
+        "merged": "D:\\LocationTest\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\cloudy.png",
+        "source": "D:\\LocationTest\\app\\src\\main\\res\\drawable-ldpi\\cloudy.png"
+    },
+    {
+        "merged": "D:\\LocationTest\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\snowrain.png",
+        "source": "D:\\LocationTest\\app\\src\\main\\res\\drawable-ldpi\\snowrain.png"
+    },
+    {
+        "merged": "D:\\LocationTest\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\snow.png",
+        "source": "D:\\LocationTest\\app\\src\\main\\res\\drawable-ldpi\\snow.png"
+    },
+    {
+        "merged": "D:\\LocationTest\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\partlyclody.png",
+        "source": "D:\\LocationTest\\app\\src\\main\\res\\drawable-ldpi\\partlyclody.png"
+    },
+    {
+        "merged": "D:\\LocationTest\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\rain.png",
+        "source": "D:\\LocationTest\\app\\src\\main\\res\\drawable-ldpi\\rain.png"
+    }
+]

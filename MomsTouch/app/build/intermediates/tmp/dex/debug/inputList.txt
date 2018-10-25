@@ -1,0 +1,2 @@
+C:\Users\kim\Desktop\sources\chap17\LocationTest\app\build\intermediates\classes\debug
+C:\Users\kim\Desktop\sources\chap17\LocationTest\app\build\intermediates\pre-dexed\debug\support-v4-19.1.0-91af616c4d5f2ccab5493488ee0a8f832b0de938.jar
